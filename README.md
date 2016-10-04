@@ -1,4 +1,6 @@
 # Sysadmin Toolbox
+
+[![Join the chat at https://gitter.im/Sysadmin-Toolbox/Lobby](https://badges.gitter.im/Sysadmin-Toolbox/Lobby.svg)](https://gitter.im/Sysadmin-Toolbox/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This Toolbox is created for sysadmins and netadmins which have to get a simple free to use(also for commercial use) toolbox. The tools can be used for admininistrating, monitoring and analyting a network, system or to test some important functions/hardware.
 
 
